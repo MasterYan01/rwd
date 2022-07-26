@@ -151,6 +151,15 @@ h1 img {
     color: #FFFFFF;
 }
 @media (max-width:767px) {
+    .footertop p a{
+        display: flex;
+        
+    }
+    .footertop p a img{
+       width: 24px;
+       height: 24px;
+       
+    }
     .footertop ul{
         display: none;
     }

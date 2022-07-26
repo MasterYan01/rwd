@@ -157,6 +157,7 @@ h1 img {
     .footerbottom{
         display: flex;
         flex-direction: column;
+        display: inline-block;
     }
     .footerbottom nav {
         display: flex;
